@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full Stack Developer at Crawlo, and student in Master : Computer Engineering, Big Data and Cloud Computing.</h3>
 
 
-<h3 align="left">About me : <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h3>
+<h3 align="left">About me :</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moroccan-ghost&label=Profile%20views&color=0e75b6&style=flat" alt="moroccan-ghost" /> </p>
 
 
