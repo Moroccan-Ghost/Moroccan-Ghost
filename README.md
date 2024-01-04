@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AIMAN EL BOUAYADI ( Moroccan-Ghost xD )</h1>
-<h3 align="center">Junior Full Stack Developer at Crawlo, and student in Master : Computer Engineering, Big Data and Cloud Computing.</h3>
+<h3 align="center">Full Stack Developer at Crawlo, and student in Master : Computer Engineering, Big Data and Cloud Computing.</h3>
 
 
 <h3 align="left">About me :</h3>
