@@ -23,7 +23,7 @@
     <p align="center">
         <a href="#">
             <img align="center" src="https://skillicons.dev/icons?i=nodejs,spring,java,maven,typescript,php,python,c,laravel,nestjs,graphql,mongodb"/>
-            <img align="center" src="https://skillicons.dev/icons?i=mysql,redis,tensorflowangular,vuejs,jenkins,jquery,git,github,docker,wordpress"/>
+            <img align="center" src="https://skillicons.dev/icons?i=mysql,redis,tensorflow,angular,vuejs,jenkins,jquery,git,github,docker,wordpress"/>
         </a>
     </p>
 </div><hr/>
