@@ -9,11 +9,8 @@
     <p>
         <ul>
             <li>🔭 I’m currently working in [CRAWLO Data Intelligence](https://www.crawlo.com)</li>
-            <li>🌱 I’m currently learning **Advanced AI & Data Science, Cloud Computing, Spring**</li>
-            <li>👨‍💻 All of my projects are available at [https://github.com/Moroccan-Ghost?tab=repositories](https://github.com/Moroccan-Ghost?tab=repositories)</li>
             <li>💬 Ask me about **Anything in my skills list xD**</li>
             <li>📫 How to reach me **aiman.elbouayadi@gmail.com**</li>
-            <li>📄 Know about my experiences [https://www.linkedin.com/in/aiman-el-bouayadi/](https://www.linkedin.com/in/aiman-el-bouayadi/)</li>
         </ul>
     </p>
 </div><hr/>
